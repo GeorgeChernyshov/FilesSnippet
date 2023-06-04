@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">FilesSnippet</string>
+
+    <!-- External storage states. -->
+    <string name="external_storage_bad_removal">External storage was removed before unmounting</string>
+    <string name="external_storage_checking">External storage is present and is process of checking</string>
+    <string name="external_storage_ejecting">External storage is being ejected</string>
+    <string name="external_storage_mounted">External storage is present and accessible</string>
+    <string name="external_storage_mounted_read_only">External storage is present and accessible, but only to read</string>
+    <string name="external_storage_nofs">External storage is blank or its filesystem is not supported</string>
+    <string name="external_storage_removed">External storage is not present</string>
+    <string name="external_storage_shared">External storage is shared via USB storage</string>
+    <string name="external_storage_unknown">No info about external storage</string>
+    <string name="external_storage_unmountable">External storage is present but cannot be mounted</string>
+    <string name="external_storage_unmounted">External storage is present but not mounted</string>
+
+    <!-- Common labels. -->
+    <string name="create_label">Create</string>
+    <string name="get_label">Get</string>
+
+    <!-- File type labels. -->
+    <string name="external_app_specific_label">External app-specific</string>
+    <string name="internal_app_specific_label">Internal app-specific</string>
+    <string name="media_label">Media</string>
+    <string name="shared_label">Shared files</string>
 </resources>
