@@ -14,6 +14,10 @@
     <string name="external_storage_unmountable">External storage is present but cannot be mounted</string>
     <string name="external_storage_unmounted">External storage is present but not mounted</string>
 
+    <!-- Photo picker availability -->
+    <string name="photo_picker_available">Photo picker is available</string>
+    <string name="photo_picker_not_available">Photo picker is not available</string>
+
     <!-- Common labels. -->
     <string name="create_label">Create</string>
     <string name="get_label">Get</string>
